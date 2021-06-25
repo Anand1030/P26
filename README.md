@@ -1,1 +1,1 @@
-# P26
+This is how I make chai for 2 people. 
